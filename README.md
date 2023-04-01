@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Django**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-8gxe.onrender.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vladyslavchaliuk.onrender.com)
 
 - 📫 How to reach me **vladchaluk@gmail.com**
 
