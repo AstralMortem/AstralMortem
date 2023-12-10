@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AstralMortem" alt="astralmoretem" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Django, Flask, FastApi, Vue.js, Nuxt.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://vladyslavchaliuk.onrender.com)
 
