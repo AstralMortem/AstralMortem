@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://vladyslavchaliuk.onrender.com)
 
-- 📫 How to reach me **vladchaluk@gmail.com**
+- 📫 How to reach me **chaliukvladyslav@gmail.com**
 
 - ⚡ Fun fact **My right eyebrow is half white**
 
